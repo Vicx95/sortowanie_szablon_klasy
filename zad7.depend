@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1525986942 source:c:\users\wiktor\desktop\zad7\main.cpp
+	<iostream>
+	"tablica.hpp"
+
+1525986973 c:\users\wiktor\desktop\zad7\tablica.hpp
+	<stdexcept>
+	<algorithm>
+
